@@ -12,3 +12,5 @@ It compiles and runs (as administrator), on my machine, reports:
     Calculated MFT Offset: 0xC0000000
     Failed to read MFT signature. Error: 87
     Failed to verify MFT signature.
+
+The goal of this simple program was to show that I could retrieve any information from an "online" NTFS file system. I'll have to look at the locks before I can roll out the rest of the realtime analyzer.
