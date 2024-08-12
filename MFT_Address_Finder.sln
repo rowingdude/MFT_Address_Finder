@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFT_Address_Finder", "MFT_Address_Finder.csproj", "{27FA2DA2-B737-400F-A060-213A4709722F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FA2DA2-B737-400F-A060-213A4709722F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FA2DA2-B737-400F-A060-213A4709722F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FA2DA2-B737-400F-A060-213A4709722F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FA2DA2-B737-400F-A060-213A4709722F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E84878-64F3-4D8F-950E-EBA943E83EE2}
+	EndGlobalSection
+EndGlobal
